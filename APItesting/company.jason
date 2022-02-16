@@ -1,0 +1,20 @@
+{
+  "name" : "TYSS",
+  "comno" : [ 11123, 567890, 123456789 ],
+  "empno" : [ {
+    "name" : "sudarshan",
+    "empid" : "TYss001",
+    "phno" : 123456,
+    "emaid" : "suda@gmail.com"
+  }, {
+    "name" : "darshan",
+    "empid" : "TYss002",
+    "phno" : 123456,
+    "emaid" : "suda@gmail.com"
+  }, {
+    "name" : "sudar",
+    "empid" : "TYss003",
+    "phno" : 123456,
+    "emaid" : "suda@gmail.com"
+  } ]
+}

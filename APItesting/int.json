@@ -1,0 +1,7 @@
+{
+  "name" : "sudarshan",
+  "empid" : "TYSS001",
+  "phno" : 123456,
+  "email" : "sud@gmail.com",
+  "number" : [ 1234, 5678, 7654 ]
+}
